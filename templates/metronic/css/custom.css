@@ -1,0 +1,35 @@
+.kt-login.kt-login--v1 .kt-login__wrapper .kt-login__body .kt-login__form .kt-login__title {
+    margin-bottom: 2rem;
+}
+
+.kt-login.kt-login--v1 .kt-login__wrapper .kt-login__body .kt-login__form .kt-form {
+    margin: 2rem auto;
+}
+
+.alert p{
+	margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.btn i {
+    padding-right: 0rem; 
+}
+
+.processing-button ,.modal-processing-button,.modal-uploading-button{
+	display: none;
+}
+
+.kt-widget.kt-widget--user-profile-2 {
+	height: auto;
+}
+
+.kt-widget.kt-widget--user-profile-3 .kt-widget__top .kt-widget__media img {
+    width: 60px;
+    border-radius: 8px;
+}
+
+.control-label .required, .required {
+    color: #e02222;
+    font-size: 12px;
+    padding-left: 2px;
+}

@@ -1,0 +1,9 @@
+{
+    "require": {
+        "giggsey/libphonenumber-for-php": "^8.9",
+        "sendgrid/sendgrid": "~7",
+        "africastalking/africastalking": "^2.3",
+        "kreait/firebase-php": "^4.17.0",
+        "sngrl/php-firebase-cloud-messaging": "dev-master"
+    }
+}
